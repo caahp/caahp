@@ -3,7 +3,8 @@
 🙋🏻‍♀️ About me
 - 👩🏻‍🎓 Studying Computer Engineering at Universidade do Estado do Amazonas (UEA)
 - 🔭 Working in the research and development sector at Ludus Lab
-- 🌱 Currently learning Javascript, Python, React, Java, HTML5 and CSS
+- 🌱 Mastering in Javascript, Node, Python, React, Angular, Java
+- ☁️ Deepening my knowledge in Cloud Computing with solutions using AWS
 - 🖥️ Looking to learn new technologies and help the programming community
 - 😄 Open to collaborate on projects
 
@@ -24,6 +25,7 @@
 </div>
 
 <div style="display: inline_block"><br>
+ <img align="center" alt="Carol-AWS" height="30" width="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7PB7gDdA6O7gpwXX-cDoelORPic-1rSP6xRUfJQX_zw&s">
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -31,5 +33,7 @@
   <img align="center" alt="Rafa-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Carol-Node" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
 </div>
+
 
