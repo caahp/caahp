@@ -19,6 +19,5 @@
 
 <div>
   <img height = "120cm" src = "https://github-readme-stats.vercel.app/api?username=caahp&show_icons=true&theme=radical"/>
-  <img height = "120cm" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=caahp&layout=compact&langs_count=16&theme=radical"/>
 </div>
 
