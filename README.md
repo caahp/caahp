@@ -3,7 +3,7 @@
 ## 🙋🏻‍♀️ About me
 - 👩🏻‍🎓 Studying Computer Engineering at Universidade do Estado do Amazonas (UEA)
 - 💼 Working as a Backend Developer at a Startup
-- 🔭 Active in the research and development sector at Callidus Lab
+- 🔭 Active in the research and development sector at Callidus Lab for TecToy
 - ☁️ Deepening my knowledge in Cloud Computing
 - 🌱 Mastering in Javascript, Node, Python, React, Angular, Java
 - 🖥️ Looking to learn new technologies and help the programming community
