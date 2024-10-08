@@ -20,7 +20,7 @@
 ## 📊 GitHub Stats:
 <div>
   <img height = "150cm" src = "https://github-readme-streak-stats.herokuapp.com/?user=caahp&theme=dark&hide_border=false"/>
-  <img height = "150cm" src = "https://github-readme-stats.vercel.app/api?username=caahp&theme=dark&hide_border=false&include_all_commits=true&count_private=true"/>
+  <img height = "150cm" src = "https://github-readme-stats.vercel.app/api?username=caahp&theme=dark&hide_border=false&include_all_commits=true&count_private=false"/>
 </div>
 
 
