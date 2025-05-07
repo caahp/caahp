@@ -2,7 +2,7 @@
 
 ## 🙋🏻‍♀️ About me
 - 👩🏻‍🎓 Studying Computer Engineering at Universidade do Estado do Amazonas (UEA)
-- 💼 Working as a Backend Developer at a Startup
+- 💼 Working as a Software Analyst at Instituto de Pesquisas Eldorado
 - 🔭 Active in the research and development sector at Callidus Lab for TecToy
 - ☁️ Deepening my knowledge in Cloud Computing
 - 🌱 Mastering in Javascript, Node, Python, React, Angular, Java
